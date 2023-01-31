@@ -1,0 +1,17 @@
+
+.divSyle{
+
+    overflow-y: "auto";
+    overflow-x: "hidden";
+    height: "100%";
+    width: "100%";
+    background-color: red ;
+    
+
+}
+
+divStyle::-webkit-scrollbar {
+    height: 12px;
+    width: 12px;
+    background: #000;
+}
